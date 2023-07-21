@@ -1,0 +1,39 @@
+.ul1{
+    /* list-style: square outside none; */
+    /* list-style: none outside url(https://css-plus.com/static/807132d43a089b5374c0b1a24160eb98/a2c25/featured.png); */
+    /* list-style-type: square;
+    list-style-position: inside;
+    list-style-image: none; */
+    /* list-style: square inside none; */
+}
+
+p{
+    /* border: 5px solid red; */
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: red; */
+    border-top: 5px solid red;
+    border-right: 5px solid yellow;
+    border-left: 5px solid orange;
+    border-bottom: 5px solid blue;
+}
+
+.p1{
+    font-size: 25px;
+    border: 5px solid black;
+    margin: 30px 0 80px 0;
+    /* margin-top: 40px; */
+    /* margin-left: 20px; */
+    /* margin-right: 30px; */
+    /* margin-bottom: 10px; */
+    /* margin: 0; */
+    padding: 50px;
+    border-radius: 20px 40px 60px 80px;
+    background-color: aqua;
+}
+
+
+/* 1 - Отступы будут установлены одновременно от каждого края элемента.
+2 - Первое значение устанавливает отступ от верхнего и нижнего края, второе — от левого и правого.
+3 - Первое значение задает отступ от верхнего края, второе — одновременно от левого и правого края, а  третье — от нижнего края.
+4 - Поочередно устанавливается отступ от верхнего, правого, нижнего и левого края. */
